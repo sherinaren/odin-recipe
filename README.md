@@ -1,1 +1,3 @@
-# odin-recipe
+# odin-recipe 
+I've practiced using html based on my knowledge from the Odin course. I understand how to create the html boilerplate and the order of the elements, how attributes and elements work, how to bold and emphasize text, how to insert links and images, and how to create ordered and unordered lists.
+I also practiced using git. I understand how to create a repository, clone it, add, check the status and log, commit, and push. 
